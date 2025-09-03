@@ -3,4 +3,4 @@
 
 this is an assignment from the odin project to test basic HTML skills
 
-the website is a plain HTML food recipies *for now* :D
+the website is a plain HTML food recipes site *for now* :D
