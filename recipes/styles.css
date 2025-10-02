@@ -44,7 +44,7 @@ ul {
 
 ol {
     margin: 17px auto;
-    width: 850px;
+    width: fit-content;
     color: brown;
     font-weight: 500;
 }
@@ -53,4 +53,8 @@ a {
     display: block;
     margin: 0 auto;
     width: fit-content;
+}
+
+li {
+    padding: 7px;
 }
